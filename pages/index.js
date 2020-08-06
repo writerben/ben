@@ -6,6 +6,8 @@ const Home = () => (
     <h1>Covidification</h1>
 
     <h3>The changes Covid brought to this world</h3>
+  
+  <h2>This website is for sale.</h2>
 
     <style jsx>{`
       :global(html,body) {
